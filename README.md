@@ -1,2 +1,2 @@
-# admin
-Administrative and governance documentation
+# gigIt Governance Repository
+Administrative and governance documentation, constitution, etc.
